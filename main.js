@@ -17,4 +17,3 @@ function printSign (id) {
     url = data[0].letters[id].image
     document.getElementById('img').style.backgroundImage="url(" + url + ")";
 }
-
